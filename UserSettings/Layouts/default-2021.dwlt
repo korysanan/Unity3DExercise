@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 29
+  controlID: 93
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 30
+  controlID: 94
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -170,7 +170,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 31
+  controlID: 95
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -834,8 +834,7 @@ MonoBehaviour:
   - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "/Users/ujin/Desktop/\u1100\u1175\u11BA\u1112\u1165\u1107\u1173
-    \u110F\u1173\u11AF\u1105\u1169\u11AB/\u110B\u1172\u1102\u1175\u1110\u1175 \u1111\u1173\u1105\u1169\u110C\u1166\u11A8\u1110\u1173/3d
-    practice"
+    \u110F\u1173\u11AF\u1105\u1169\u11AB/\u110B\u1172\u1102\u1175\u1110\u1175 \u1111\u1173\u1105\u1169\u110C\u1166\u11A8\u1110\u1173/Unity3DExercise"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
